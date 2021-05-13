@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working at [_**Solutis Tecnologias**_](https://solutis.com.br/)
 - 🌱 I’m currently learning _**JavaScript, React and related things**_
+- 💠 I’m interested in learning about _**Front-End Stuffs and UI/UX Design**_
 <!--- 👯 I’m looking to collaborate on ...-->
 - 🤔 I’m looking for help with _**who knows**_
 - 💬 Ask me about _**anything**_
