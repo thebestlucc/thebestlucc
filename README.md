@@ -19,6 +19,7 @@ Here are some ideas to get you started:
   -  [_LinkedIn_](https://www.linkedin.com/in/thebestlucc);
   -  [_Instagram_](https://www.instagram.com/thebestlucc);
   -  [_Twitter_](https://www.twitter.com/thebestlucc).
-- 😄 Pronouns: _**Thebestlucc**_
+- 😄 Pronouns: _**He/His**_
+- 🎮 NickName: _**Thebestlucc**_
 - ⚡ Fun fact: _**42**_
 
