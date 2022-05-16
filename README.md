@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working at [_**Solutis Tecnologias**_](https://solutis.com.br/)
+- 🔭 I’m currently working at [_**Bankly - Banking as a Service**_](https://www.bankly.com.br/)
 - 🌱 I’m currently learning _**JavaScript, React and related things**_
 - 💠 I’m interested in learning about _**Front-End Stuffs and UI/UX Design**_
 <!--- 👯 I’m looking to collaborate on ...-->
