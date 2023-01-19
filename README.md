@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with _**who knows**_
 - 💬 Ask me about _**anything**_
 - 📫 How to reach me: 
-  -  [_Whatsapp_](https://api.whatsapp.com/send?1=pt_br&phone=5571989511233);
   -  [_LinkedIn_](https://www.linkedin.com/in/thebestlucc);
   -  [_Instagram_](https://www.instagram.com/thebestlucc);
   -  [_Twitter_](https://www.twitter.com/thebestlucc).
