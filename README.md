@@ -1,11 +1,10 @@
 <table>
-  <tr>
-    <td>
-      ### Hi! I'm Lucas, but u can call me Lucc and as u noticed, my profile here is under construction. 🚧
-</br>
+<tr>
+<td>
+<h3>Hi! I'm Lucas, but u can call me Lucc and as u noticed, my profile here is under construction. 🚧</h3>
 </br>
 
-I'm a front-end developer, actually working with React.
+<em>I'm a front-end developer, actually working with React.</em>
 </br>
 </br>
 
