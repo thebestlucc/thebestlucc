@@ -1,4 +1,4 @@
-<table style="border: 0;">
+<table>
 <tr>
 <td>
 <h3>Hi! I'm Lucas, but u can call me Lucc and as u noticed, my profile here is under construction. 🚧</h3>
