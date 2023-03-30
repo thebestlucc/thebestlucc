@@ -1,7 +1,4 @@
-### Olá, Fui tomar um ☕ e acabei não concluindo ~ainda~ a organização deste perfil.
-
-
-##### Desculpem os transtornos, prometo que assim que acabar o café eu termino de organizar tudin 🤗
+### Hi! I'm Lucas, but u can call me Lucc and as u noticed, my profile here is under construction. 🚧
 
 <!--
 **thebestlucc/thebestlucc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,4 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: _**He/His**_
 - 🎮 NickName: _**Thebestlucc**_
 - ⚡ Fun fact: _**42**_
+
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/thebestlucc/thebestlucc/blob/master/devcard.svg" width="400" alt="Thebestlucc's Dev Card"/></a>
+
 
