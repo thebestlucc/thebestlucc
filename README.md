@@ -19,6 +19,5 @@ Here are some ideas to get you started:
 - 🎮 NickName: _**Thebestlucc**_
 - ⚡ Fun fact: _**42**_
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/thebestlucc/thebestlucc/blob/master/devcard.svg" width="400" alt="Thebestlucc's Dev Card"/></a>
-
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/thebestlucc/thebestlucc/blob/main/devcard.svg" width="400" alt="Thebestlucc's Dev Card"/></a>
 
