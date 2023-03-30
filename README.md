@@ -1,15 +1,18 @@
-### Hi! I'm Lucas, but u can call me Lucc and as u noticed, my profile here is under construction. 🚧
+<table>
+  <tr>
+    <td>
+      ### Hi! I'm Lucas, but u can call me Lucc and as u noticed, my profile here is under construction. 🚧
+</br>
+</br>
 
-<!--
-**thebestlucc/thebestlucc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a front-end developer, actually working with React.
+</br>
+</br>
 
-Here are some ideas to get you started:
--->
+- 🌱 I’m currently learning _**JavaScript, React and related stuffs**_
+- 👯 I’m looking to collaborate on JavaScript/Typescript Projects.
 - 🔭 I’m currently working at [_**Bankly - Banking as a Service**_](https://www.bankly.com.br/)
-- 🌱 I’m currently learning _**JavaScript, React and related things**_
-- 💠 I’m interested in learning about _**Front-End Stuffs and UI/UX Design**_
-<!--- 👯 I’m looking to collaborate on ...-->
-- 🤔 I’m looking for help with _**who knows**_
+- 📚 I’m interested in learning about _**Front-End Stuffs and UI/UX Design**_
 - 💬 Ask me about _**anything**_
 - 📫 How to reach me: 
   -  [_LinkedIn_](https://www.linkedin.com/in/thebestlucc);
@@ -19,5 +22,9 @@ Here are some ideas to get you started:
 - 🎮 NickName: _**Thebestlucc**_
 - ⚡ Fun fact: _**42**_
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/thebestlucc/thebestlucc/blob/main/devcard.svg" width="400" alt="Thebestlucc's Dev Card"/></a>
-
+    </td>
+    <td>
+      <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/thebestlucc/thebestlucc/blob/main/devcard.svg" width="400" alt="Thebestlucc's Dev Card"/></a>
+    </td>
+  </tr>
+</table>
