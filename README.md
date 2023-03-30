@@ -26,4 +26,19 @@
       <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/thebestlucc/thebestlucc/blob/main/devcard.svg" width="400" alt="Thebestlucc's Dev Card"/></a>
     </td>
   </tr>
+  <tr>
+  <td>
+  <picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=thebestlucc&show_icons=true&theme=dracula&count_private=true"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=thebestlucc&show_icons=true&theme=dracula&count_private=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=thebestlucc&show_icons=true&theme=dracula&count_private=true" />
+</picture>
+</td>
+  </tr>
 </table>
