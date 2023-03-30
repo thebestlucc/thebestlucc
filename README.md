@@ -1,4 +1,4 @@
-<table>
+<table style="border: 0;">
 <tr>
 <td>
 <h3>Hi! I'm Lucas, but u can call me Lucc and as u noticed, my profile here is under construction. 🚧</h3>
@@ -41,7 +41,9 @@
 </picture>
 </td>
 <td>
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=aj3fbp859k3d1tilckf3b4hmj&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=aj3fbp859k3d1tilckf3b4hmj&redirect=true)
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=aj3fbp859k3d1tilckf3b4hmj&redirect=true" style="display: flex; justify-content: center; align-items: center; width: 100%">
+    <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=aj3fbp859k3d1tilckf3b4hmj&cover_image=true&theme=default&show_offline=false&background_color=000000&bar_color=53b14f&bar_color_cover=false" width="190" />
+  </a>
 </td>
-  </tr>
+</tr>
 </table>
