@@ -23,7 +23,7 @@
 
     </td>
     <td>
-      <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/thebestlucc/thebestlucc/blob/main/devcard.svg" width="400" alt="Thebestlucc's Dev Card"/></a>
+      <a href="https://app.daily.dev/thebestlucc"><img src="https://api.daily.dev/devcards/bcdccd3e8a4b4d6e90937bac1d64eef4.png?r=mpd" width="400" alt="lucas lopes's Dev Card"/></a>
     </td>
   </tr>
   <tr>
