@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td>
-<h3>Hi! I'm Lucas, but u can call me Lucc and as u noticed, my profile here is under construction. 🚧</h3>
+<h3>Hi! I'm Lucas </h3>
 </br>
 
 <em>I'm a front-end developer, actually working with React.</em>
