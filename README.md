@@ -9,8 +9,8 @@
 </br>
 
 - 🌱 I’m currently learning _**JavaScript, React and related stuffs**_
-- 👯 I’m looking to collaborate on JavaScript/Typescript Projects.
-- 🔭 I’m currently working at [_**Bankly - Banking as a Service**_](https://www.bankly.com.br/)
+- 👯 I’m looking to collaborate on _JavaScript_/_Typescript_ Projects.
+- 🔭 I’m currently working at [_**Bankly**_](https://www.bankly.com.br/)
 - 📚 I’m interested in learning about _**Front-End Stuffs and UI/UX Design**_
 - 💬 Ask me about _**anything**_
 - 📫 How to reach me: 
