@@ -1,16 +1,16 @@
 <table>
 <tr>
 <td>
-<h3>Hi! I'm Lucas </h3>
+<h3>Hi, i'm Lucas!</h3>
 </br>
 
-<em>I'm a front-end developer, actually working with React.</em>
+<em>I'm a Seventh Day Adventist front-end developer.</em>
 </br>
 </br>
 
 - 🌱 I’m currently learning _**JavaScript, React and related stuffs**_
 - 👯 I’m looking to collaborate on _JavaScript_/_Typescript_ Projects.
-- 🔭 I’m currently working at [_**Bankly**_](https://www.bankly.com.br/)
+- 🔭 I’m currently working at [_**Loja Integrada**_](https://www.lojaintegrada.com.br/)
 - 📚 I’m interested in learning about _**Front-End Stuffs and UI/UX Design**_
 - 💬 Ask me about _**anything**_
 - 📫 How to reach me: 
