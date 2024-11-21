@@ -27,19 +27,18 @@
     </td>
   </tr>
   <tr>
-  <td>
-  <picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=thebestlucc&show_icons=true&theme=dracula&count_private=true"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=thebestlucc&show_icons=true&theme=dracula&count_private=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=thebestlucc&show_icons=true&theme=dracula&count_private=true" />
-</picture>
-</td>
-</td> -->
-</tr>
+    <td colspan="2">
+      <picture>
+        <source 
+          srcset="https://github-readme-stats.vercel.app/api?username=thebestlucc&show_icons=true&theme=dracula&count_private=true"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=thebestlucc&show_icons=true&theme=dracula&count_private=true"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api?username=thebestlucc&show_icons=true&theme=dracula&count_private=true" />
+      </picture>
+    </td>
+  </tr>
 </table>
