@@ -27,7 +27,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2">
+    <td colspan="2" align="center">
       <picture>
         <source 
           srcset="https://github-readme-stats.vercel.app/api?username=thebestlucc&show_icons=true&theme=dracula&count_private=true"
