@@ -40,10 +40,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=thebestlucc&show_icons=true&theme=dracula&count_private=true" />
 </picture>
 </td>
-<td>
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=aj3fbp859k3d1tilckf3b4hmj&redirect=true" style="display: flex; justify-content: center; align-items: center; width: 100%">
-    <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=aj3fbp859k3d1tilckf3b4hmj&cover_image=true&theme=default&show_offline=false&background_color=000000&bar_color=53b14f&bar_color_cover=false" width="190" />
-  </a>
-</td>
+</td> -->
 </tr>
 </table>
