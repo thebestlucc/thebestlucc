@@ -22,11 +22,11 @@
 - ⚡ Fun fact: _**42**_
 
     </td>
-    <td>
+    <!-- <td>
       <a href="https://app.daily.dev/thebestlucc"><img src="https://api.daily.dev/devcards/bcdccd3e8a4b4d6e90937bac1d64eef4.png?r=mpd" width="400" alt="lucas lopes's Dev Card"/></a>
-    </td>
+    </td> -->
   </tr>
-  <tr>
+  <!-- <tr>
     <td colspan="2" align="center">
       <picture>
         <source 
@@ -40,5 +40,5 @@
         <img src="https://github-readme-stats.vercel.app/api?username=thebestlucc&show_icons=true&theme=dracula&count_private=true" />
       </picture>
     </td>
-  </tr>
+  </tr> -->
 </table>
