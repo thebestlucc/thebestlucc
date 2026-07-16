@@ -12,4 +12,4 @@ _I'm a Seventh Day Adventist front-end developer._
   -  [_Instagram_](https://www.instagram.com/thebestlucc);
   -  [_Twitter_](https://www.twitter.com/thebestlucc).
 - 🎮 NickName: _**Thebestlucc**_
-- ⚡ Fun fact: _**42**_
+
